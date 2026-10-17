@@ -1,0 +1,22 @@
+{
+  "wheel_id": 372,
+  "structure": "umbrella",
+  "slug": "canberrahomeloanbroker-com-108",
+  "project": "mortgage-broker-canberra-common-mistakes-581538325e0d7e9c2f4391",
+  "parent_t1_ref": "canberrahomeloanbroker-com-152",
+  "node_role": "feeder",
+  "money_target": "canberrahomeloanbroker.com.au",
+  "primary_kw": "mortgage broker canberra common mistakes",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-canberra-common-mistakes-581538325e0d7e9c2f4391/",
+  "tier": "T2",
+  "writeback_nonce": "6346c49bb7fe26c5",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/canberrahomeloanbroker-com-152/",
+      "anchor": "https://sitesau.github.io/canberrahomeloanbroker-com-152/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
